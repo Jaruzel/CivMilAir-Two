@@ -44,10 +44,10 @@ Personally, I feel sad that all his efforts went unseen. This was what drove me 
 
 All the text files are converted directly from the extracted Canon disks. As mentioned, they are only partially converted - enough to be read or parsed further.
 
-- [US.ZIP](US.ZIP) : 2,213 Files
+- [US.ZIP](US.zip) : 2,213 Files
 - [CIV.ZIP](CIV.ZIP) : 111 files
 - [DH.ZIP](DH.ZIP) : 23 files
-- [MISC.ZIP](MISC.ZIP) : 23 files
+- [MISC.ZIP](MISC.zip) : 23 files
 
 I did write a tool to merge all the *US___.TXT* files into a single CSV of data, but the time involved and the many, many, formatting edge cases made it unpractical for me continue converting the *CIV___.TXT*, *AU___.TXT*, and *DH___.TXT* files, etc.  That said, the US set is over 80% of the data (347,000 entries).
 
